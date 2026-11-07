@@ -1,0 +1,2 @@
+# Everything runs on the Python 3.9+ standard library except image conversion.
+pillow>=10.0   # optional: only needed for `imgconv`
